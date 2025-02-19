@@ -10,9 +10,7 @@ Patients and Admins.
 1. Patient:
 On the patient side, the main goal is to provide a smooth and user-friendly experience. Here’s what the patient can do:
 •	Book Appointments: Pet owners can select a doctor based on their specialization (for example, a doctor who specializes in treating cats), and they can easily book an appointment based on available time slots. They no longer need to wait in long queues or worry about not getting a slot with the right doctor.
-
 •	View Doctor Profiles: Pet owners can view detailed profiles of doctors, including their specialization, experience, and contact information. This helps pet owners choose the right doctor for their pets’ needs.
-
 •	Message the Doctor: If a patient needs to ask a question or clarify something, they can directly message the doctor or the hospital staff through the app, which is a feature that helps both sides communicate easily.
 
 3. Admin:
