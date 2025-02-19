@@ -1,4 +1,4 @@
-# Pet-Vet
+# Pet&Vet
 Pet Hospital Management System
 
 It's a Pet Hospital Management Web Application that utilizes the MERN stack (MongoDB, Express.js, React, Node.js) and Vite for optimized bundling. The aim of the project was to create a seamless, user-friendly platform for managing hospital operations and patient care.
