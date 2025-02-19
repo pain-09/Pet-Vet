@@ -10,10 +10,12 @@ Patients and Admins.
 1. Patient:
 On the patient side, the main goal is to provide a smooth and user-friendly experience. Here’s what the patient can do:
 •	Book Appointments: Pet owners can select a doctor based on their specialization (for example, a doctor who specializes in treating cats), and they can easily book an appointment based on available time slots. They no longer need to wait in long queues or worry about not getting a slot with the right doctor.
+
 •	View Doctor Profiles: Pet owners can view detailed profiles of doctors, including their specialization, experience, and contact information. This helps pet owners choose the right doctor for their pets’ needs.
+
 •	Message the Doctor: If a patient needs to ask a question or clarify something, they can directly message the doctor or the hospital staff through the app, which is a feature that helps both sides communicate easily.
 
-2. Admin:
+3. Admin:
 The admin role is the backbone of the application, allowing full control and management of the system. The admin has access to a dashboard where they can:
 •	Manage Doctors: The admin can add new doctors, update their details, and assign them to specific departments (e.g., dog specialists, cat specialists). They can also upload doctors' profile pictures (avatars) to ensure the hospital staff looks presentable online.
 •	Manage Appointments: Admins have the ability to view, cancel, or reschedule appointments made by patients. They can also assign specific doctors to patients based on the pet type or specialization.
