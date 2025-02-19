@@ -19,3 +19,6 @@ The admin role is the backbone of the application, allowing full control and man
 •	Manage Appointments: Admins have the ability to view, cancel, or reschedule appointments made by patients. They can also assign specific doctors to patients based on the pet type or specialization.
 •	Manage Messages: Admins can view and manage all incoming messages from pet owners, enabling quick communication and resolution of queries.
 •	Handle Doctor Registrations: When new doctors join the hospital, the admin can manually input their details into the system. This eliminates the need for paper-based records and streamlines the process.
+
+#screenshots
+![image](https://github.com/user-attachments/assets/063c31b7-d3ac-47fe-98ab-fc6613de164b)
