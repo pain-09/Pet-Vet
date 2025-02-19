@@ -21,4 +21,9 @@ The admin role is the backbone of the application, allowing full control and man
 •	Handle Doctor Registrations: When new doctors join the hospital, the admin can manually input their details into the system. This eliminates the need for paper-based records and streamlines the process.
 
 #screenshots
-![image](https://github.com/user-attachments/assets/063c31b7-d3ac-47fe-98ab-fc6613de164b)
+![image](https://github.com/user-attachments/assets/4bdde816-305b-4545-8a65-6c535f1c15ca)
+![image](https://github.com/user-attachments/assets/ff36b3d0-d54f-44f6-be9f-1618debcde1f)
+![image](https://github.com/user-attachments/assets/1dc68196-d577-4d56-80ec-0a6fe97b07e4)
+
+
+
